@@ -1,0 +1,12 @@
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\bin\Debug\Latte Selection City.exe.config
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\bin\Debug\Latte Selection City.exe
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\bin\Debug\Latte Selection City.pdb
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\bin\Debug\Latte Selection City.xml
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte_Selection_City.frmLatteSelection.resources
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte_Selection_City.Resources.resources
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.vbproj.GenerateResource.cache
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.vbproj.CoreCompileInputs.cache
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.exe
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.xml
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.pdb
+C:\Users\citym\source\repos\Latte Selection City\Latte Selection City\obj\Debug\Latte Selection City.vbprojAssemblyReference.cache
